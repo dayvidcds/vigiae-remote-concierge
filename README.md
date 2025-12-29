@@ -104,7 +104,7 @@ vigiae-remote-concierge/
 ├── dist/                       # Build da aplicação
 ├── node_modules/               # Dependências
 ├── .env.example                # Exemplo de variáveis de ambiente
-├── .eslintrc.js               # Configuração ESLint
+├── eslint.config.js           # Configuração ESLint
 ├── .prettierrc                # Configuração Prettier
 ├── jest.config.js             # Configuração Jest
 ├── nest-cli.json              # Configuração NestJS CLI
